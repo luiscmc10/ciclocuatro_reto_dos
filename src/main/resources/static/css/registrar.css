@@ -1,0 +1,21 @@
+body {
+    background: url(https://www.wallpapertip.com/wmimgs/35-350686_apple-store-background.png) #444;
+    background-size: cover;
+    padding-bottom: 80px;
+}
+
+#login .container #login-row #login-column #login-box {
+    margin-top: 30px;
+    max-width: 600px;
+    height: 520px;
+    border: 1px solid #c90c0c;
+    background: url(https://www.wallpapertip.com/wmimgs/38-386847_multi-coloured-slate-wallpaper-mural-used-construction-material.jpg) #444;
+}
+
+#login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+}
+
+#login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+}
